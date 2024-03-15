@@ -68,7 +68,7 @@ export default function FooterLinks() {
       </Container>
       <Container className={classes.afterFooter}>
         <Text c="dimmed" size="sm">
-          © 2024 TaskHunt. All rights reserved.<br/> Developed and maintained with 💜 by <Link target='_blank' rel={"norefferer"} className='text-[var(--mantine-color-text)] font-bold' to={"https://github.com/HarjjotSinghh/TaskHunt"}>Team Vizard</Link>.
+          © 2024 AarambhKar. All rights reserved.<br/> Developed and maintained with 💜 by <Link target='_blank' rel={"norefferer"} className='text-[var(--mantine-color-text)] font-bold' to={"https://github.com/HarjjotSinghh/TaskHunt"}>Team Vizard</Link>.
         </Text>
 
         <Group gap={0} className={classes.social} justify="flex-end" wrap="nowrap">
